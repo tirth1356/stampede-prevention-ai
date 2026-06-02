@@ -1,5 +1,5 @@
 # alertX 🛡️
-demo : [https://www.youtube.com/watch?v=x0mNapiKdto](https://www.youtube.com/watch?v=x0mNapiKdto)
+demo : [https://www.youtube.com/watch?v=x0mNapiKdto](https://www.youtube.com/watch?v=x0mNapiKdto) <br>
 **Stampede Sentinel** is a high-fidelity, real-time crowd pressure intelligence and early-warning system designed for high-density pilgrimage corridors. By merging fluid dynamics with ML-driven predictive modeling, the system identifies potential stampede risks up to 45 minutes before they reach critical levels.
 
 ## 🚀 Key Features
